@@ -1,4 +1,4 @@
 # betting_server
 Betting game server over tcp sockets
 
-A programming assignment back from the schools days touching BSD sockets and pthreads
+A programming assignment back from the school days dealing with BSD sockets and pthreads
