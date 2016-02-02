@@ -6,7 +6,7 @@ betting_server:
 	gcc -g -o betting_server betting_server.c main.c -lpthread
 
 doxygen:
-	doxygen betting.dox
+	doxygen betting_server.dox
 
 betting_client:
 	gcc -g -o betting_client betting_client.c
